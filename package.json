@@ -1,0 +1,24 @@
+{
+  "name": "dad_bod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2_deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luzzotica/DadBod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luzzotica/DadBod/issues"
+  },
+  "homepage": "https://github.com/Luzzotica/DadBod#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "truffle": "^5.5.18"
+  }
+}
